@@ -1,6 +1,6 @@
 ---
 title: How to track rage clicks in Google Tag Manager
-date: 2020-09-04T15:19:04.881Z
+date: 2020-09-03T15:25:20.542Z
 image: /images/butler.jpg
 tags:
   - GTM
